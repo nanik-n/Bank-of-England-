@@ -14,6 +14,7 @@ Matplotlib / Seaborn: data visualisation
 Pandas / NumPy / SciPy: data manipulation, statistical functions
 Selenium + BeautifulSoup: web scraping report dates
 Excel: initial data exploration
+
 📌 Business Problem
 The Bank of England uses public speeches to shape market expectations and communicate monetary policy. They wanted to understand:
 How speech tone shifts across macroeconomic shocks
