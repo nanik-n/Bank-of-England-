@@ -1,7 +1,6 @@
-# Bank-of-England-
+# Bank-of-England- 📊 LSE Data Analytics Employer Project – Bank of England - 90% Grade
 About In this project, I supported the Bank of England in analysing sentiment across policy speeches from 2019–2022 using text analytics. By applying FinBERT and exploring tone shifts by speaker and event, I translated central bank communication trends into insights that inform economic narrative and policy direction.
-📊 LSE Data Analytics Employer Project – Bank of England - 90% Grade
-🧾 Executive Summary
+
 This employer project was completed as part of the LSE Data Analytics Diploma, in collaboration with the Bank of England.
 
 Our five-member team analysed 240 BoE speeches from 2019–2022 to understand how speech sentiment reflected and responded to economic events, interest rate changes, and macroeconomic indicators.
